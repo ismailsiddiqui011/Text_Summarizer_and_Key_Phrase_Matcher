@@ -4,6 +4,7 @@
 - Summarize document/text, given a list of short text responses and a list of possible key phrases or group of key phrases with similar meaning. Assign key phrases or the group to relevant short text response. A key phrase can be assigned to multiple responses and similarly a response can be assigned multiple key phrases.
 
 ## Problem Statemtent
+- Summarize the document/text
 - Find Similer keyphase in a corpus
 
 ## Constraints:
